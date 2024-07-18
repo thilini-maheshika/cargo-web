@@ -12,7 +12,7 @@ const Stats = () => {
         >
             <div className="relative mx-8 text-center xs:my-8 lg:mx-0">
                 <div
-                    className="absolute inset-0 flex items-center justify-center font-bold lg:text-9xl xs:text-7xl"
+                    className="absolute inset-0 flex items-center justify-center font-bold lg:text-8xl xs:text-5xl"
                     style={{
                         textShadow: `
               -1px -1px 0 #555353,
@@ -40,7 +40,7 @@ const Stats = () => {
             </div>
             <div className="relative mx-8 text-center xs:my-8 lg:mx-0">
                 <div
-                    className="absolute inset-0 flex items-center justify-center font-bold lg:text-9xl xs:text-7xl"
+                    className="absolute inset-0 flex items-center justify-center font-bold lg:text-8xl xs:text-5xl"
                     style={{
                         textShadow: `
               -1px -1px 0 #555353,
@@ -68,7 +68,7 @@ const Stats = () => {
             </div>
             <div className="relative mx-8 text-center xs:my-8 lg:mx-0">
                 <div
-                    className="absolute inset-0 flex items-center justify-center font-bold lg:text-9xl xs:text-7xl"
+                    className="absolute inset-0 flex items-center justify-center font-bold lg:text-8xl xs:text-5xl"
                     style={{
                         textShadow: `
               -1px -1px 0 #555353,
@@ -96,7 +96,7 @@ const Stats = () => {
             </div>
             <div className="relative mx-8 text-center xs:my-8 lg:mx-0">
                 <div
-                    className="absolute inset-0 flex items-center justify-center font-bold lg:text-9xl xs:text-7xl"
+                    className="absolute inset-0 flex items-center justify-center font-bold lg:text-8xl xs:text-5xl"
                     style={{
                         textShadow: `
               -1px -1px 0 #555353,

@@ -51,7 +51,7 @@ const BannerSection = () => {
             &gt;
           </button>
         </div>
-        <div className="relative w-full lg:w-1/2">
+        <div className="relative w-full lg:w-7/12">
           <img src={images[currentIndex]} alt="Shipping" className="object-cover w-full h-96" />
         </div>
       </div>

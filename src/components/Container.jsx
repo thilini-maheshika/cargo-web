@@ -13,7 +13,7 @@ const Container = () => {
         </div>
         <div className="relative flex-1 mt-8 md:mt-0">
           <img src={logisticsImage2} alt="Logistics" className="h-auto md:w-full lg:w-4/5 md:ml-0 lg:ml-12"/>
-          <div className="absolute top-0 left-0 flex flex-col items-center justify-center h-32 p-4 bg-transparent lg:w-48 lg:ml-80 lg:mt-40 md:top-24 md:left-24 xs:mt-6">
+          <div className="absolute top-0 left-0 flex flex-col items-center justify-center h-32 p-4 bg-transparent lg:w-48 lg:ml-60 lg:mt-40 md:top-24 md:left-24 xs:mt-6">
             <img src={shape1} alt="shape" className="absolute w-full h-full"/>
             <div className="relative z-10 text-center lg:ml-8">
               <p className="text-2xl font-bold text-white">15,350+</p>
